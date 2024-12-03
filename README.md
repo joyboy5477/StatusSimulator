@@ -67,5 +67,5 @@ Logs are automatically saved to the logs folder for both the server and the clie
 ### 8. Now to run using test
 
 - Ensure the server and client code is in place, and the virtual environment is activated.
-- pytest testing/test.py
+- ``` pytest testing/test.py ```
 - with verbose ``` pytest -v testing/test.py ```
