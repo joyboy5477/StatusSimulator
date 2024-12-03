@@ -28,6 +28,7 @@ This project simulates a job processing system with a server that handles job re
     ```
     SERVER_URL="http://127.0.0.1:5000"
     ```
+.env file should be in client folder
 ### 5. Project structure
     
 ├── client/
