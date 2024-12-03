@@ -17,9 +17,8 @@ This project simulates a job processing system with a server that handles job re
 ### 2. Activate your environment
     ```
     python -m venv venv
-   source venv/bin/activate   <!-- On mac/linux-->
-   source venv\Scripts\activate  <!-- On Windows-->
-
+    source venv/bin/activate   <!-- On mac/linux-->
+    source venv\Scripts\activate  <!-- On Windows-->
     ```
 ### 3. Install python packages
     ```
