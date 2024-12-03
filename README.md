@@ -30,7 +30,8 @@ This project simulates a job processing system with a server that handles job re
     ```
 .env file should be in client folder
 ### 5. Project structure
-    
+```
+
 ├── client/
 │   ├── client.py
 │   └── .env
@@ -42,6 +43,7 @@ This project simulates a job processing system with a server that handles job re
 ├── requirements.txt
 └── README.md    
 
+```
 ### 6. How to run it? 
 - stay on statussimulator
 - to run server : python/server/server.py
