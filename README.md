@@ -40,6 +40,8 @@ This project simulates a job processing system with a server that handles job re
 ├── logs/
 │   ├── client.log
 │   ├── server.log
+├── test/
+│   ├── test.py
 ├── requirements.txt
 └── README.md    
 
@@ -61,3 +63,9 @@ Logs are automatically saved to the logs folder for both the server and the clie
 
 - Server Logs: Stored in server/logs/server.log.
 - Client Logs: Stored in client/logs/client.log.
+
+### 8. Now to run using test
+
+- Ensure the server and client code is in place, and the virtual environment is activated.
+- pytest testing/test.py
+- with verbose ``` pytest -v testing/test.py ```
